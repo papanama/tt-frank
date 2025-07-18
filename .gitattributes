@@ -1,3 +1,6 @@
 frank-v1-hair-will-overlap.fbx filter=lfs diff=lfs merge=lfs -text
 frank-v1.1-pegs-added.stl filter=lfs diff=lfs merge=lfs -text
 frank-v1.2-cuts-and-keys.fbx filter=lfs diff=lfs merge=lfs -text
+frank-v1.3-arm-cuts.fbx filter=lfs diff=lfs merge=lfs -text
+frank-v1.4-remeshed-arms-cuts.fbx filter=lfs diff=lfs merge=lfs -text
+frank-v1.5-shaded-flat-filled-holes.fbx filter=lfs diff=lfs merge=lfs -text
